@@ -2,8 +2,8 @@
 
 [![](https://visitcount.itsvg.in/api?id=YusufSmsk&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<h1 align="center">Hello 👋, I'm Yusuf</h1>
-<h3 align="center">I graduated from high school.</h3>
+<h1 align="center">Merhaba 👋, Ben Enes</h1>
+<h3 align="center">Bilgisayar Programcılığı 1.sınıf öğrencisiyim</h3>
 
 
 ## 🌐 Socials:
